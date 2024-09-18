@@ -1,3 +1,2 @@
-x = 3
-y = float(3)
-print(x,y)
+print('How much was your meal?')
+input = ('58.99')
