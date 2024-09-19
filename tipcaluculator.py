@@ -1,3 +1,2 @@
+name = input(int(bill))
 
-print('How was your meal today?')
-print("It was great")
