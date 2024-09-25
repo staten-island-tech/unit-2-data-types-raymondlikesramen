@@ -1,4 +1,5 @@
 #asking a user to input a sentence.
+
 x=input('He was _ to school. write a verb')
 print(f'He was {x} to school')
 y=input('He saw _ _ over his classmate. write a celebrity, write a verb')
